@@ -1,5 +1,5 @@
 # Squillo
-Dynamic App providing home values & prices across the U.S. 
+App providing home values & statistic using Quandl's, Avalara's, and Google's Geolocation & Maps API.
 
 
 ## Concept
@@ -15,10 +15,11 @@ Squillo is a dynamic app that allows users to enter their username and search fo
 ## Team Members
  - Bryan Castleman: Front End - HTML, CSS, Materialize
  - Mai Hoang: Back End - JavaScript, jQuery, AJAX API
- - Marissa Wyss: Back End - Firebase (JavaScript)
-
+ - Marissa Wyss: Back End - Firebase
+ 
 ## APIs (Application program interface) used to generate data
- - Google Maps for location and dynamically generated map
+ - Google Maps
+ - Google Geolocation
  - Quandl for Zillow Home Value Index data
  - Avalara for tax rates
 
@@ -35,9 +36,10 @@ People are relocating, or life events require you to move to another location. W
  - Footer including useful links for home buying, construction, repair, remodeling.
 
 
-## Technologies Used
- - HTML: to display page
- - Materialize & CSS: for styling and mobile responsiveness
- - JavaScript, jQuery: to make the page dynamic
- - AJAX,  API: to retrieve respective api database info
- - Firebase, Local Storage: for data persistence and user recognition
+### Technologies Used
+ * HTML
+ * Materialize/CSS
+ * JavaScript/jQuery
+ * AJAX w/APIo
+ * Firebase
+ * Local Storage
