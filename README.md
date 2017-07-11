@@ -1,4 +1,4 @@
-# Project - {Squillo}
+# Squillo
 Dynamic App providing home values & prices across the U.S. 
 
 
@@ -12,26 +12,15 @@ Squillo is a dynamic app that allows users to enter their username and search fo
  - The app provides information by calling on respective APIs based on data input.
  - Save favorite locations and view data in one place
 
-
-## Team Name: 3Nodes
-
 ## Team Members
  - Bryan Castleman: Front End - HTML, CSS, Materialize
  - Mai Hoang: Back End - JavaScript, jQuery, AJAX API
  - Marissa Wyss: Back End - Firebase (JavaScript)
 
- ## Instructor
- - Omar Patel, UCLA Coding BootCamp
-
- ## Handler
-- Jonathan Arellano, UCLA Coding BootCamp
-
-
 ## APIs (Application program interface) used to generate data
  - Google Maps for location and dynamically generated map
  - Quandl for Zillow Home Value Index data
  - Avalara for tax rates
-
 
 ## Motivation for Development
 This app provides a solution to individuals looking for a snapshot of home value information in one place.
